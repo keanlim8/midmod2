@@ -51,6 +51,15 @@ h2 {
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.5);
 }
 
+@media screen and (max-width: 600px) {
+  .card{
+    width: 50%;
+    display: block;
+
+    margin-top: 60px;
+  }
+}
+
 
 /*================================================================================================
 ===========================================FOOTER=================================================
@@ -64,8 +73,4 @@ footer {
   background: linear-gradient(69deg, #3f0d12 0%, #a71d31 74%);
   color: white;
   text-align: center;
-}
-
-p {
-  word-spacing: 100px;
 }
