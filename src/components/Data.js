@@ -8,7 +8,7 @@ const Data = (props) => {
 
         <form onSubmit = {props.handleSubmit}>
           < button > 🎲Randomize Country🎲 < /button>
-           <br></br> 
+           <br></br>
           < select onChange = {props.handleChange}>
             {props.test.map((items, i) => <option key={i}> {items.country}</option>)}
 
@@ -35,7 +35,7 @@ const Data = (props) => {
 
             <div > < span > Total Tests: < /span>{currentCountry.totalTests}</div >
 
-            <div > < span > Tests Per Million Popoulation < /span>{currentCountry.testsPerOneMillion}</div >
+            <div > < span > Tests Per Million Popoulation: < /span>{currentCountry.testsPerOneMillion}</div >
 
             < br / >
 
