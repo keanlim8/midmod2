@@ -1,3 +1,7 @@
+# Application Description
+
+This is a COVID-19 tracking application. It provides users with a user-friendly User Interface that shows users up-to-date information on COVID data. This application makes external calls to an API that has data, which is updated every few hours. Users can select a country from the drop-down menu or randomize a search for current Global totals, daily Global totals, daily country totals, and total current totals. Data consists of confirmed, active and recovered cases, deaths and fatality rate. Enjoy! (https://whispering-wildwood-74111.herokuapp.com)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
