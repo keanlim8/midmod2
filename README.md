@@ -5,9 +5,9 @@ This is a COVID-19 tracking application. It provides users with a user-friendly 
 P.S. Might take a few seconds to load...
 
 
-# Getting Started with Create React App
+# Demo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Farmers Market Finder Demo](demo/demo.gif)
 
 ## Available Scripts
 
